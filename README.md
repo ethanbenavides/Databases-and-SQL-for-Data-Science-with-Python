@@ -51,6 +51,6 @@ The purpose of this course is to introduce relational database concepts and to l
 - Generating joins to query data from multiple tables
 
 ## Certificates
-Verification of the certificate can be found [here](https://www.coursera.org/account/accomplishments/verify/V7GAZJAAN2QL):
+Certificate verification can be found [here](https://www.coursera.org/account/accomplishments/verify/V7GAZJAAN2QL):
 
 ![image](https://github.com/ethanbenavides/Databases-and-SQL-for-Data-Science-with-Python/assets/57383185/f1ce8d69-544c-4e12-9a50-b70f6536f23e)
